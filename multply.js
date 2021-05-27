@@ -26,9 +26,12 @@
 // }
 // greet('dougy');
 
-function square(number) {
-  return number * number;
-}
+// function square(number) {
+//   return number * number;
+// }
 
-let number = square(2);
-console.log(number);
+// let number = square(2);
+// console.log(number);
+let x = 10;
+let y = 3;
+console.log(x + y);
