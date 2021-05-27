@@ -35,3 +35,14 @@
 let x = 10;
 let y = 3;
 console.log(x + y);
+x *= 5;
+// comparison operators
+console.log(x > 0);
+// strict => type and value
+
+console.log(1 === 1);
+
+let points = 100;
+
+let type = points > 100 ? 'hello' : 'hello too';
+console.log(type);
